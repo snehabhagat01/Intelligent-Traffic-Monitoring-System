@@ -1,0 +1,24 @@
+# Core application
+streamlit>=1.35.0
+
+# Computer vision / detection
+ultralytics>=8.2.0
+opencv-python-headless>=4.9.0
+
+# Data handling
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Visualization
+plotly>=5.22.0
+matplotlib>=3.8.0
+kaleido>=0.2.1        # required for exporting Plotly charts as PNG in PDF reports
+
+# Image handling
+Pillow>=10.3.0
+
+# PDF report generation
+reportlab>=4.2.0
+
+# Utilities
+joblib>=1.4.0
